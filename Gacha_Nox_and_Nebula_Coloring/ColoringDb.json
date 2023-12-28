@@ -3,9 +3,9 @@
     "AdsController": 
       {
 	   
-        "NetworkAds": "max",
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NetworkAds": "admob",
+        "BannerAdmob": "ca-app-pub-6579901472432581/4733507806",
+        "InterstitialAdmob": "ca-app-pub-6579901472432581/6580926034",
 
         "UnityGameID": "4868185",
         "UnityBanner": "Banner_Android",
