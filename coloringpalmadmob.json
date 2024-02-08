@@ -1,0 +1,30 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+	   
+        "NetworkAds": "max",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+
+        "UnityGameID": "4868185",
+        "UnityBanner": "Banner_Android",
+        "UnityInter": "Interstitial_Android",
+		
+        "ApplovinBanner": "dzada",
+        "ApplovinInter" : "fazfa",
+        
+        "hisavanaappid" : "ffffff",
+        "hisavanabaner" : "ffffff",
+        "hisavanamedium" : "fffffff",
+        "hisavanainter" : "fffffff",
+        
+        "joke" : false ,
+        "twoface" : false ,
+        
+        
+        "IroneAppkey" : "1108f84a5"
+		
+      }
+     }
+}
