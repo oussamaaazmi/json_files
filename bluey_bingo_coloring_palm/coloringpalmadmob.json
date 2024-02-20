@@ -3,7 +3,7 @@
     "AdsController": 
       {
 	   
-        "NetworkAds": "max",
+        "NetworkAds": "hisavana",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 
@@ -14,10 +14,10 @@
         "ApplovinBanner": "dzada",
         "ApplovinInter" : "fazfa",
         
-        "hisavanaappid" : "ffffff",
-        "hisavanabaner" : "ffffff",
-        "hisavanamedium" : "fffffff",
-        "hisavanainter" : "fffffff",
+        "hisavanaappid" : "240219cssMbv6b",
+        "hisavanabaner" : "240220HGyl6M1M",
+        "hisavanamedium" : "240220HGyl6M1M",
+        "hisavanainter" : "240220O44C2WJy",
         
         "joke" : false ,
         "twoface" : false ,
